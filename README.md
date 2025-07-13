@@ -7,3 +7,6 @@ El desarrollo se llevara acabo siguiendo los siguientes pasos:
 ✅ Aplicar los conceptos de ETL (Extracción, Transformación y Carga) en la preparación de los datos.
 ✅ Crear visualizaciones estratégicas para identificar patrones y tendencias.
 ✅ Realizar un Análisis Exploratorio de Datos (EDA) y generar un informe con insights relevantes.
+
+se tiene un archivo .csv con los datos consolidados y normalizados para uso en analisis posteriores.
+Y se tiene otro archivo html interactivo que muestra la incidencia del porcentaje de retiros y permanencias a lo largo del tiempo.
